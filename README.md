@@ -2,7 +2,7 @@
 
 Meu nome é Isa Fidelis
 
-- Eu estou estudando no Alura
+- Eu estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
