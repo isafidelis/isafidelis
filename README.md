@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🤎
 
-Meu nome é Isa Fidelis
+Meu nome é Isabele Fidelis
 
 - Eu estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
